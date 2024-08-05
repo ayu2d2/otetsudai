@@ -4,7 +4,7 @@ export default function Page() {
 
 <Link href="/
 ">Dashboard</Link>
-     <h1>Hello, Next.js!</h1>
+     <h1>Hello, Naaaxt.js!</h1>
      </div>
   }
 
